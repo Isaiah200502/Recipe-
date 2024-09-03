@@ -1,0 +1,39 @@
+body{background-color: hsl(0, 0%, 100%);
+font-size: 16px;
+font-family: Times new Roman;
+font-weight: 400;
+
+}
+  img { 
+      display: flex;
+      width: 100%;
+      height: auto;
+      flex-wrap: wrap;
+      justify-content: space-between;
+      background-color: hsl(30, 54%, 90%);
+  }
+  p { font-size: 16px; 
+  text-align: center;
+  font-weight: 400; 
+  }
+   .p-time {
+        background-color: hsl(330, 100%, 98%);
+    }
+   h3 {
+     color: hsl(332, 51%, 32%);  
+   }
+   h2 {
+       color: hsl(14, 45%, 36%);
+   }
+   th {
+       padding: 10px;
+       width: 50%;
+       border-spacing: 40px;
+       text-align: right;
+   }
+   tr {
+       padding: 5px;
+       width: 5000%;
+       border-spacing: 10px;
+       text-align: right;
+   }
